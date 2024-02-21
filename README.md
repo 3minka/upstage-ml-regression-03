@@ -67,6 +67,4 @@
 - 5 / 19
 - ![image](https://github.com/3minka/upstage-ml-regression-03/assets/55490349/7f40337d-b05a-4e98-b5fd-da2fcbd6e520)
 
-- ![image](https://github.com/UpstageAILab/upstage-ml-regression-03/assets/55490349/9f865c50-7065-479d-b478-9395dc685799)
-
 
